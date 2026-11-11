@@ -208,7 +208,6 @@ Free to use, modify, and distribute with attribution.
 
 👨‍💻 Author
 
-*Built from scratch on mobile.*
 Focused on Clean Architecture, Quantitative Finance, and Multi-Agent Systems.
 
 *Topics:* `quantitative-finance` `multi-agent-systems` `python` `clean-architecture` `algorithmic-trading` `risk-management` `yfinance`
