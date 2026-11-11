@@ -1,0 +1,6 @@
+{
+  "capital": 10000.0,
+  "risk_per_trade": 0.02,
+  "symbols": ["BTC-USD", "ETH-USD", "AAPL"],
+  "lookback_days": 252
+}
